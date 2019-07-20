@@ -15,6 +15,4 @@ void fact()
     fact = fact * c;
 
   printf("Factorial of %d = %d\n", n, fact);
-
-
 }
