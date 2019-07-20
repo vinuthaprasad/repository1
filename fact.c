@@ -1,9 +1,6 @@
 #include <stdio.h>
 
-void fact()
-#include <stdio.h>
-
-void fact()
+void main()
 {
   
   int c, n, fact = 1;
@@ -15,4 +12,5 @@ void fact()
     fact = fact * c;
 
   printf("Factorial of %d = %d\n", n, fact);
+  
 }
